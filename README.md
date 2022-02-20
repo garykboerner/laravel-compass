@@ -17,11 +17,6 @@
 
 Laravel Compass is an elegant REST assistant for the Laravel framework that you can use to test API calls and create API documentation. it provides automatically endpoints for GET, POST, PUT/PATCH, DELETE, various auth mechanisms, and other utility endpoints based on Laravel routes in your project.
 
-## Installation and usage
-
-This package requires PHP 7.2 and Laravel 6.0 or higher.  
-You'll find installation instructions and full documentation on https://davidhsianturi.com/laravel-compass.
-
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
